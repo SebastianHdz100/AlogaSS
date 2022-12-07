@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681721640846",
+    "project_id": "alogass-83264",
+    "storage_bucket": "alogass-83264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681721640846:android:ee795a8009c45c51de56df",
+        "android_client_info": {
+          "package_name": "com.example.alogass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681721640846-e1pjue4sl1he6phuak33l0n6a6jh5eb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDppIM_7pUV84BPCN5SDR2YFjC9fzuA-BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681721640846-e1pjue4sl1he6phuak33l0n6a6jh5eb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
